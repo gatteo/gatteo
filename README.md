@@ -3,7 +3,7 @@ I don't know what you are looking for in life, but i don't think you'll find it 
 
 Anyway, my Name is Matteo, i build stuff.
 
-You can check more about me here: [matteogiardino.com??utm_source=github.com&utm_medium=profile](matteogiardino.com)
+You can check more about me here: [matteogiardino.com](https://matteogiardino.com?utm_source=github.com&utm_medium=profile)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=gatteo&color=orange)
 <!--
