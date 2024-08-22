@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Profile views counter](https://komarev.com/ghpvc/?username=gatteo&color=orange)
 <!--
 **gatteo/gatteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
