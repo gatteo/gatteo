@@ -2,7 +2,7 @@
 
 I'm Matteo, a developer, builder from the pre-ai era.
 
-- 🚀 1 exit - founded and sold Westudents / Wezard
+- 🚀 Exit - founded and sold Westudents / Wezard
 - 🎓 I've helped 100,000+ people start coding
 - 🏆 Forbes 30 Under 30
 
